@@ -1,5 +1,17 @@
 # no-ai-slop-writing-rules
 
+> # 👋 Hi, you were probably sent here.
+>
+> ## If someone handed you a link to this repo, it is because you sent them AI-generated shit so obviously AI-generated that they stopped reading partway through and went looking for a polite way to say "run it through a human first."
+>
+> Pasting raw Gemini or ChatGPT output with zero editing, or running a project with no anti-slop rules at all, is the 2026 equivalent of handing out a business card with an `@aol.com` email on it. The tool is fine. Shipping its first draft with your name on it is the part people notice.
+>
+> Nobody is mad that you used a model. Everybody can tell the em dashes, the "it's important to note," the "in today's fast-paced world," and the three identical paragraphs that each say nothing were not yours. Read your own output before you send it. That is the whole ask.
+>
+> The rules below are what "read it first" looks like written down. Steal them.
+
+---
+
 A portable Claude Code reference for writing in Louis Rossmann's voice without AI slop. It is general-purpose: essays, scripts, posts, documentation, emails, anything made of sentences. It is not tied to any wiki, CMS, or publishing system.
 
 ## What it does
