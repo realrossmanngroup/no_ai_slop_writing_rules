@@ -1,0 +1,10 @@
+# OS cruft
+.DS_Store
+
+# Editor dirs
+.idea/
+.vscode/
+
+# Logs and temp
+*.log
+tmp/
