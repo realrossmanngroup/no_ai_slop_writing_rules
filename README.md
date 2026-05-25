@@ -6,7 +6,17 @@
 >
 > Pasting raw Gemini or ChatGPT output with zero editing, or running a project with no anti-slop rules at all, is the 2026 equivalent of handing out a business card with an `@aol.com` email on it. The tool is fine. Shipping its first draft with your name on it is the part people notice.
 >
-> Nobody is mad that you used a model. Everybody can tell. The em dashes everywhere. The sentence that opens with "In today's fast-paced world." The "it's important to note that," the "furthermore," the "moreover." The part where you "delve into" something or "leverage" it to "foster" a "robust," "seamless," "holistic" outcome. "A myriad of" this. "A plethora of" that. The closer that begins "In conclusion" and the one before it that promises to "pave the way." Three identical paragraphs that each say nothing. The bulleted list where every item is the same length and starts with a bold word and a colon. It reads like it was written to fill a word count, because it was. Read your own output before you send it. That is the whole ask.
+> Nobody is mad that you used a model. Everybody can tell, because the model has tics and you left every one of them in.
+>
+> The dead giveaway is the "It's not X. It's Y." construction, and its cousin "It's not just X, it's Y with Z." *This isn't a price increase. It's a betrayal of trust.* *This isn't just a phone. It's a statement.* The model loves it because it sounds profound and commits to nothing. Real people do not talk like this. They say what the thing is.
+>
+> Then there is the dramatic noun-phrase heading. The model writes **"The Pricing Trap"** when the honest heading is "how to avoid scam pricing." It writes **"The Hidden Cost of Convenience"** instead of "subscriptions add up." A heading is supposed to tell you what is in the section, not tease it like a movie poster.
+>
+> And the rest of the kit: "Let's dive in." "Here's the thing." "But here's the kicker." "In a world where..." A 🚀 emoji in front of a bullet. Every list built in threes because three sounds complete. The fake-punchy one-line paragraph.
+>
+> For drama.
+>
+> Read your own output before you send it. That is the whole ask.
 >
 > The rules below are what "read it first" looks like written down. Steal them.
 
