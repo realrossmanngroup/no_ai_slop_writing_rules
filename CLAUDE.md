@@ -71,6 +71,8 @@ These are non-negotiable. Violating any of them makes the output unusable.
 
 23. **Quote sources accurately, and set off the long ones.** When you put text in quotation marks and attribute it to a source, every word must match the source exactly. Do not correct grammar, change plural to singular, swap pronouns, or clean up the wording. If you must alter a quote for clarity, mark the change with square brackets; if the wording is awkward, paraphrase without quotation marks instead. Name the speaker and the medium when you introduce a quote. Keep short quotes run-in inside the sentence. Set off a long quotation (more than about fifteen words) as its own indented block, introduced by a one-sentence attribution clause, so the source's voice is visually distinct from yours.
 
+25. **No decorative counting.** Do not state how many files, directories, items, or steps exist when the reader can count them from the list or table you already provided. "Six files total" before a six-row table is padding. A count earns its place only when the number itself is the point and is not already visible.
+
 24. **No research-process narration.** Report the facts you can support and silently omit what you cannot. Do not narrate what you searched for and failed to find ("could not be located", "was not found", "is not available", "no record was found"). Do not attach an "as of [date]" qualifier to your own inability to find something. Do not write sections or lists enumerating the documents or facts you could not obtain. Do not add meta-commentary about how the text was put together. If a fact cannot be supported, delete it. Do not tell the reader you looked.
 
 ## Banned Words and Phrases

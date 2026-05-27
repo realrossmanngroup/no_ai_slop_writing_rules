@@ -80,6 +80,17 @@ Never put a position in a named person's mouth from inference. State only what t
 - WRONG: "Senator Smith has argued that the right to repair is essential."
 - RIGHT: "Senator Smith co-sponsored the Fair Repair Act in January 2024."
 
+## Rule 25: No decorative counting
+
+Do not announce how many items a list or table contains when the reader can see the items. The count restates what is already visible.
+
+- WRONG: "This project contains 6 files:" followed by a table listing the files.
+- RIGHT: The table listing the files, with no count preamble.
+- WRONG: "There are 3 main directories in this repo."
+- RIGHT: Name and describe the directories without counting them first.
+
+A count earns its place when the number is the point: "the dataset contains 2.4 million rows" tells the reader something a list cannot.
+
 ## Root-cause differentiation
 
 When you contrast two things, name the concrete difference that separates them. Do not assert that one is exempt, newer, better, or unaffected without saying what specifically makes it so.
