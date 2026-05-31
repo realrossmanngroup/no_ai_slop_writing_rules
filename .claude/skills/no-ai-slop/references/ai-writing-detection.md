@@ -315,6 +315,11 @@ AI maintains flat stylistic consistency from introduction through conclusion. Hu
 - **Threshold:** Calculate sentence length variance separately for the introduction, body, and conclusion. If variance differs by less than 10% across all three segments, the text was likely generated as a single pass by AI.
 - **Why this matters:** Human introductions tend to be tighter and more declarative. Human body sections are denser with longer sentences. Human conclusions shift register. AI maintains a monotone throughout.
 
+### Decorative Counting
+AI models count items the reader can already see: "6 files total", "3 directories", "4 configuration options" placed directly before or after a list or table that already shows the items. The count adds no information. This appears most often in README and project-documentation files.
+- **Threshold:** Any count stated within 2 sentences of a list, table, or directory tree that already enumerates the same items.
+- **Exception:** Counts that are the point of the sentence ("the dataset contains 2.4 million rows") or that summarize something not listed nearby.
+
 ### Contrasting Parallelism Overuse
 2025-era models overuse sequential contrasting structures to simulate punchy emphasis:
 - "It's not X, it's Y."
